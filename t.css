@@ -1,0 +1,28 @@
+#head{
+    font-family:monospace ;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 25px;
+}
+body{
+    font-family: cursive;
+}
+#para{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+img{
+    margin-left: 275px;
+}
+p{
+    font-family: cursive;
+    text-transform: capitalize;
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family: sans-serif;
+}
